@@ -1,6 +1,6 @@
 ###### sunhacks 2025 Project
 
-### RecycleX
+### RecycleX: https://35f8edbf.sunhacks-2025.pages.dev/
 
 ## Inspiration
 Recycling is often confusing with many different materials which seem like they can be recycled but actually can't.  Also while many people want to recycle, they often lack the incentive to do so. With our gamification of recycling, it provides motivations while making the users feel good that they are practicing sustainable practices.
